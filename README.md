@@ -1,5 +1,5 @@
 # Crammer's Rule
 
-Crammers Rule visualisation.
+Crammer's Rule visualisation.
 
 
